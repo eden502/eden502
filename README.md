@@ -2,7 +2,7 @@
 
 ## Hi! ##
 
-My name is Eden and i'm a student of Software Engineering (B.Sc.) at Afeka Tel Aviv College of Engineering,</br>
+My name is Eden and i'm a Software Engineering (B.Sc.) Graduate from Afeka Tel Aviv College of Engineering,</br>
 with ML&AI specialization. 
 #### In this page you can find repositiories that showcase my abilites or that I find especially interesting in the following topics: 
 
